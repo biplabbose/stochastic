@@ -6,6 +6,6 @@ A. To run simulations on your computer:
 1. Your computer should have Jupyterlab or Jupiter Notebook installed. If not, install either of those two.
 2. Install Julia.
 3. Install Julia packages - Random, Plots, Statistics, Distributions.
-4. Install the Julia kernel for Jupyter Notebook. requires installation of IJulia package.
+4. Install the Julia kernel for Jupyter Notebook. Requires installation of IJulia package.
 
-Download the following notebooks from this repository and run locally on your computer: coin_toss.ipynb, transcription_coin_toss.ipynb and transcription_poisson.ipynb
+Download the following notebooks from this repository and run locally on your computer: coin_toss.ipynb, transcription_coin_toss.ipynb and transcription_poisson.ipynb.
