@@ -9,3 +9,9 @@ A. To run simulations on your computer:
 4. Install the Julia kernel for Jupyter Notebook. Requires installation of IJulia package.
 
 Download the following notebooks from this repository and run locally on your computer: coin_toss.ipynb, transcription_coin_toss.ipynb and transcription_poisson.ipynb.
+
+B. To run simulations on Google Colab:
+1. You need a Google account. 
+2. Download the notebooks starting with 'colab' from this repository: colab_coin_toss_julia.ipynb, colab_transcription_coin_toss_julia.ipynb, and colab_transcription_poisson_julia.ipynb.
+3. Log in your Google account. Upload these notebooks either on your Google Drive or Colab.
+4. Open a notebook on Colab. Follow the instructions given in the notebooks. Note that installation of Julia and its packages in your Colab run times may take minutes (maybe even 10 minutes).
