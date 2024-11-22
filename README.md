@@ -3,7 +3,7 @@ This repository has the Julia codes for the workshop "Stochastic Processes in Bi
 We use Jupyter Notebook. You can run these codes two ways - a) on your computer or b) on Google Colab. 
 
 A. To run simulations on your computer:
-1. Your computer should have Jupyterlab or Jupiter Notebook installed. If not, install either of those two.
+1. Your computer should have Jupyterlab or Jupyter Notebook installed. If not, install either of those two.
 2. Install Julia.
 3. Install Julia packages - Random, Plots, Statistics, Distributions.
 4. Install the Julia kernel for Jupyter Notebook. Requires installation of IJulia package.
