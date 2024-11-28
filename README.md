@@ -14,4 +14,4 @@ B. To run simulations on Google Colab:
 1. You need a Google account.
 2. Download the notebooks starting with 'colab' from this repository: colab_all_code_julia.ipynb, colab_coin_toss_julia.ipynb, colab_transcription_coin_toss_julia.ipynb, and colab_transcription_poisson_julia.ipynb. The file "colab_all_code_julia.ipynb" has all the codes. Better to use that on Colab.
 3. Open Google [Colab](https://colab.research.google.com/). Log in with your Google account. Upload one of these notebooks (names starting with colab) on Colab. Colab opens a pop-up to open notebooks. Choose the upload option and upload the file. Otherwise, to upload: File > Upload Notebook. This uploaded file will be saved in the Colab Notebooks folder of your Google Drive.
-4. Once the file opens on Colab, follow the instructions given on the file (steps 2 and 3). Note that the installation of Julia and its packages in your Colab runtime may take minutes (maybe even 10 minutes).
+4. Once the file opens on Colab, follow the instructions given on the file. Note that the installation of Julia and its packages in your Colab runtime may take minutes (maybe even 10 minutes).
