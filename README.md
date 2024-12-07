@@ -29,3 +29,5 @@ To run on Google Colab:
 3. Open this notebook on Colab.
 4. Change runtime to R: Go to Runtime > Change runtime type > Select R from the pull-down menu. Save.
 5. Run the script in the notebook.
+
+Contributors: Biplab, Shaon and Anton
