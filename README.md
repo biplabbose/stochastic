@@ -1,5 +1,5 @@
 # Workshop on Stochastic Processes in Biology, ICSB 2024, IIT Bombay
-This repository has the Julia codes for the workshop "Stochastic Processes in Biology – an Introductory Course".
+This repository has the Julia and R codes for the workshop "Stochastic Processes in Biology – an Introductory Course".
 We use Jupyter Notebook. You can run these codes two ways - a) on your computer or b) on Google Colab. 
 
 A. To run simulations on your computer:
